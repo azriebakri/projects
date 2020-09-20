@@ -1,0 +1,6 @@
+[submodule "portfolio-web"]
+	path = portfolio-web
+	url = https://github.com/azriebakri/portfolio-web.git
+[submodule "portfolio-api"]
+	path = portfolio-api
+	url = https://github.com/azriebakri/portfolio-api.git
